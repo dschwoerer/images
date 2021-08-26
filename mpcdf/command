@@ -1,0 +1,2 @@
+~/soft/charliecloud/master/bin/ch-image build -f debian -t emc3 emc3 --force
+
